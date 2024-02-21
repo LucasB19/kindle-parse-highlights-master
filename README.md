@@ -19,12 +19,12 @@ Before you begin, ensure you have Python 3.x installed on your system. You can v
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/your_project.git
+git clone https://github.com/LucasB19/kindle-parse-highlights-master.git
 ```
 
 Navigate into the project directory:
 ```bash
-cd your_project
+cd your-project
 ```
 
 
